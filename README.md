@@ -1,6 +1,6 @@
 # Şizofreni Hastalarına Umut Vaat Eden Yeni Uygulama: Veni Vidi Vici
 
-![VeniVidiVici](\android\app\src\main\res\mipmap-hdpi\ic_launcher.png)
+![VeniVidiVici](/android/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
 Şizofreni, dünya çapında milyonlarca insanı etkileyen karmaşık bir zihinsel bozukluktur. Halüsinasyonlar, sanrılar ve bozulmuş düşünme gibi belirtiler, hastaların günlük yaşamlarını sürdürmeyi zorlaştırabilir.
 
