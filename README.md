@@ -73,6 +73,12 @@ Bu sorunun üstesinden gelmeye yardımcı olmak için, **Veni Vidi Vici** adlı 
 ***Veni Vidi Vici bir tıbbi cihaz değildir ve tıbbi tavsiye olarak kullanılmamalıdır. Herhangi bir şizofreni belirtisi yaşıyorsanız, lütfen lisanslı bir tıp uzmanına danışın.***
 
 ---
+#### Projeye Katkı Sağlayanlar
+
+- [Ümmügülsüm Erol](https://github.com/ummugulsumm)
+- [Alper Açıkgöz](https://github.com/alperacikgoz)
+- [Mehmet Rıfat Demireller](https://github.com/mrdemireller)
+- [Muhammed Kaha](https://github.com/LUMBOOR)
 
 
 
