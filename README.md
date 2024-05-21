@@ -4,7 +4,7 @@
 
 Şizofreni, dünya çapında milyonlarca insanı etkileyen karmaşık bir zihinsel bozukluktur. Halüsinasyonlar, sanrılar ve bozulmuş düşünme gibi belirtiler, hastaların günlük yaşamlarını sürdürmeyi zorlaştırabilir.
 
-Bu sorunun üstesinden gelmeye yardımcı olmak için, **Veni Vidi Vici** adlı yeni bir uygulama geliştirdik. Bu uygulama, yapay zekayı kullanarak kamera destekli yüz analizi yaparak şizofreni hastalarının halüsinasyon larını tespit etmeye ve yönetmeye yardımcı olur.
+Bu sorunun üstesinden gelmeye yardımcı olmak için, **Veni Vidi Vici** adlı yeni bir uygulama geliştirdik. Bu uygulama, yapay zekayı kullanarak kamera destekli yüz analizi yaparak şizofreni hastalarının halüsinasyonlarını tespit etmeye ve yönetmeye yardımcı olur.
 
 ## Uygulama Nasıl Çalışır?
 
